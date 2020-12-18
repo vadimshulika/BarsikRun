@@ -1,0 +1,31 @@
+#canvas{
+  position: absolute;
+  right: 460px;
+}
+
+body {
+  background-color: #B0DC55;
+}
+
+.info{
+  color: white;
+  font-size: 36px;
+  text-align: center;
+}
+
+.canvas{
+  width: 1000px;
+  height: 700px;
+}
+
+.colr{
+  background-color: #F9C922;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.game_text{
+  color: white;
+  font-size: 26px;
+}
